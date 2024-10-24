@@ -11,4 +11,5 @@ public class SimpleQuotationTest {
     public void simpleTest() {
         Assertions.fail();
     }
+
 }
