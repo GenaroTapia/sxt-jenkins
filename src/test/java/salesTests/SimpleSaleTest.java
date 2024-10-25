@@ -16,4 +16,5 @@ public class SimpleSaleTest {
     public void simpleTest2() {
         System.out.println("SUCCESS");
     }
+
 }
